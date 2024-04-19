@@ -1,0 +1,5 @@
+Financial Analysis
+***********************************
+total months: 1
+total: $1088983
+average change: $1088983.000000greatest increase in profits :Jan-10($1088983)greatest decrease in profits:Jan-10($1088983)
